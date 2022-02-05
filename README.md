@@ -18,10 +18,13 @@ I motorcycle both on and off pavement, wood turn, do a little CNC and 3D printin
 
 Most things.
 
+My test projects are a couple of utilities for quilters. When you are making a quilt (you know, a fancy blanket with a top, bottom and insulation in the middle)  there is a lot of simple-but-tedious math that takes place and then some simple-but-tedious layout to get the most parts out of the available fabric. Computers are good at tedious.  I currently have a utility that determines the fabric required for a Log Cabin pattern quilt. A second (or possibly and extension of the first) will provide the cutting instructions to maximize the yield and spread the parts over the available colors evenly. This requires a basic grounding in gui programming concepts and practices. Coming from a predominately linear procedural language background this initially more difficult than expected.
+
 - 🌱 I’m currently learning ...
 
 PureBasic because it has a good IDE, was inexpensive, and I think it will do what I need it to do.  My coding background is more in ASM, Fortran,
-COBOL, Pascal, C and other more obscure languages.
+COBOL, Pascal, C and other more obscure languages. GUI concepts and practices.
+
 
 - 💞️ I’m looking to collaborate on ...
 
